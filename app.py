@@ -11,7 +11,7 @@ csv_path = "df_Test_Indust.csv"
 df = pd.read_csv(csv_path)
  
 # Charger le modèle Machine Learning
-model_path = "lightgbm_model ML OK.pkl"
+model_path = "lightgbm_model_ML_OK.pkl"
 try:
     with open(model_path, "rb") as file:
         model = joblib.load(file)
