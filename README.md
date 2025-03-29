@@ -17,16 +17,16 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-##  Table des matières
+## Table des matières
 
-- [À propos du projet](#-à-propos-du-projet)
-- [Démarrage rapide](#-démarrage-rapide)
-- [Installation](#-installation)
-- [Structure du projet](#-structure-du-projet)
-- [Utilisation](#-utilisation)
-- [Contribuer](#-contribuer)
-- [Contact](#-contact)
-- [Licence](#-licence)
+- [À propos du projet](#a-propos-du-projet)
+- [Démarrage rapide](#démarrage-rapide)
+- [Installation](#installation)
+- [Structure du projet](#structure-du-projet)
+- [Utilisation](#utilisation)
+- [Contribuer](#contribuer)
+- [Contact](#contact)
+- [Licence](#licence)
 
 ---
 
