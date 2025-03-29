@@ -21,7 +21,6 @@
 
 - [À propos du projet](#a-propos-du-projet)
 - [Démarrage rapide](#démarrage-rapide)
-- [Installation](#installation)
 - [Structure du projet](#structure-du-projet)
 - [Utilisation](#utilisation)
 - [Contribuer](#contribuer)
@@ -32,7 +31,7 @@
 
 ##  À propos du projet
 
-FASTAPI-IRA-PREDICTION est une API conçue pour analyser et prédire les infections respiratoires aiguës en utilisant le modèle LightGBM. 
+PredictIRA est une API conçue pour analyser et prédire les infections respiratoires aiguës en utilisant le modèle LightGBM. 
 
 ###  Technologies utilisées
 
@@ -50,7 +49,7 @@ Pour obtenir une copie locale et exécuter l'application, suivez ces étapes :
 
 1. Clonez le dépôt
 ```bash
-git clone M2iFormationHopital/PREDICTIRA
+git clone ya-repillez/IRA_Project
 cd API-PredictionIRA
 ```
 2. Installez les dépendances
@@ -59,9 +58,9 @@ pip install -r requirements.txt
 ```
 3. Lancez l'application
 ```bash
-uvicorn app2:app --reload
+python app.py
 ```
-4. Accédez à l'application à `http://127.0.0.1:8000/`
+4. Accédez à l'application à `http://127.0.0.1:5000/`
 
 ---
 
@@ -115,8 +114,7 @@ Les contributions sont les bienvenues !
 ##  Contact
 
 - **Nom :** Equipe : Sarra ABBASSI​ && Mohammed ABUSARAR​ && Patrice DUCLOS​ && Yannick REPILLEZ​
-- **GitHub :** M2IFormationHopital
-- **Email :** m2iformationhopital@gmail
+- **Email :** m2iformationhopital@gmail.com
 
 ---
 
