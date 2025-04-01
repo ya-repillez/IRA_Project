@@ -1,5 +1,4 @@
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/ya-repillez/IRA_Project">
     <img src="static/images/LogoTrans.png" alt="Logo" width="128" height="128">
